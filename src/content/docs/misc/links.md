@@ -2,10 +2,10 @@
 title: Useful Links
 ---
 
-## User Docs
+## User Support
 
 [Floorp Official Docs](https://docs.floorp.app)  
-[Floorp Unofficial Docs by CutterKnife](https://fs-un.super.site/)
+[Floorp Unofficial Support by CutterKnife](https://fs-un.super.site/)
 
 ### Firefox Trains
 
