@@ -10,10 +10,15 @@
     "astro": "astro"
   },
   "dependencies": {
+    "@astrojs/check": "^0.4.1",
     "@astrojs/starlight": "^0.17.1",
+    "@unocss/astro": "0.58.4",
     "astro": "^4.2.1",
     "sharp": "^0.32.5",
-    "@astrojs/check": "^0.4.1",
     "typescript": "^5.3.3"
+  },
+  "devDependencies": {
+    "@unocss/preset-icons": "^0.58.4",
+    "unocss": "^0.58.4"
   }
 }
