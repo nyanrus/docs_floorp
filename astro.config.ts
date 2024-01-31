@@ -9,7 +9,8 @@ export default defineConfig({
     starlight({
       title: "NyanRus's Floorp Docs",
       logo: {
-        src:"./public/favicon.svg"
+        light:"./public/lfo_floorp_docs_black.svg",
+        dark: "./public/lfo_floorp_docs_white.svg",
       },
       social: {
         github: "https://github.com/nyanrus/docs_floorp",
