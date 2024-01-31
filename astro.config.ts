@@ -12,7 +12,7 @@ export default defineConfig({
         src:"./public/favicon.svg"
       },
       social: {
-        github: "https://github.com/nyanrus/Floorp",
+        github: "https://github.com/nyanrus/docs_floorp",
       },
       sidebar: [
         {
