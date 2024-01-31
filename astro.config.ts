@@ -3,6 +3,8 @@ import starlight from "@astrojs/starlight";
 
 // https://astro.build/config
 export default defineConfig({
+  site: 'https://nyanrus.github.io',
+  base: "/docs_floorp",
   integrations: [
     starlight({
       title: "NyanRus's Floorp Docs",
