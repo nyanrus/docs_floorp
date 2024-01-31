@@ -2,11 +2,15 @@ import { defineConfig } from "astro/config";
 import starlight from "@astrojs/starlight";
 
 import unocss from "@unocss/astro";
+import remarkGithub,{defaultBuildUrl} from "remark-github"
 
 // https://astro.build/config
 export default defineConfig({
   site: 'https://nyanrus.github.io',
   base: "/docs_floorp",
+  markdown: {
+    remarkPlugins: [[remarkGithub,{repository:"https://github.com/Floorp-Projects/Floorp"}]]
+  },
   integrations: [starlight({
     title: "NyanRus's Floorp Docs",
     logo: {

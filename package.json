@@ -14,10 +14,12 @@
     "@astrojs/starlight": "^0.17.1",
     "@unocss/astro": "0.58.4",
     "astro": "^4.2.1",
+    "remark-github": "^12.0.0",
     "sharp": "^0.32.5",
     "typescript": "^5.3.3"
   },
   "devDependencies": {
+    "@biomejs/biome": "^1.5.3",
     "@unocss/preset-icons": "^0.58.4",
     "unocss": "^0.58.4"
   }

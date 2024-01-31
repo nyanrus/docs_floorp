@@ -25,10 +25,10 @@ To play DRM-protected content, You can use the major browsers like Firefox or Ch
 
 ### related issue
 
-[#272 HBO Max, Netflix](https://github.com/Floorp-Projects/Floorp/issues/272)
+#272 HBO Max, Netflix
 
-duplicate: \
-[#204 Tidal](https://github.com/Floorp-Projects/Floorp/issues/204) \
-[#584 Spotify](https://github.com/Floorp-Projects/Floorp/issues/584) \
-[#650 Spotify](https://github.com/Floorp-Projects/Floorp/issues/650) \
-[#761 Netflix, Disney+ Hotstar](https://github.com/Floorp-Projects/Floorp/issues/761)
+duplicate:
+
+#204 Tidal\
+#584, #650 Spotify\
+#761 Netflix, Disney+ Hotstar
