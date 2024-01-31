@@ -28,6 +28,10 @@ export default defineConfig({
         {
           label: "Issue Tracker",
           autogenerate: {directory:"issues"}
+        },
+        {
+          label: "Misc",
+          autogenerate: {directory:"misc"}
         }
       ],
     }),
