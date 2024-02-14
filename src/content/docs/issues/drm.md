@@ -24,7 +24,7 @@ This issue won't be resolved because the party is not commercial something.
 
 #### How to play the DRM-protected content
 
-You can use the Firefox or Chrome, etc. that some major browsers that have the license.
+You can use the Firefox or Chrome, etc. some major browsers that have the license.
 
 ### related issue
 
