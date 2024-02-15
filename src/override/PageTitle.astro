@@ -9,7 +9,7 @@ import IconHashtag from "../assets/icon/hashtag.astro"
 
 import IconCheck from "../assets/icon/check.astro"
 import IconCross from "../assets/icon/cross.astro"
-import IconTriangLe from "../assets/icon/triangle.astro"
+import IconTriangle from "../assets/icon/triangle.astro"
 
 const status = Astro.props.entry.data.misc == null ? null : Astro.props.entry.data.misc.status;
 ---
@@ -21,7 +21,7 @@ const status = Astro.props.entry.data.misc == null ? null : Astro.props.entry.da
     <div class="under-title-content status" style="font-size:1.2em">
       { status === "fixed" && (<IconCheck style="color:#3DCC40;height:1.4em;width:1.4em"/><span>Fixed</span>)}
       { status === "wontfix" && (<IconCross style="color:#CC423D;height:1.4em;width:1.4em" /><span>Won't Fix</span>)}
-      { status === "invalid" && (<IconTriangLe style="color:#CCC73D;height:1.2em;width:1.4em"/><span>invalid</span>)}
+      { status === "invalid" && (<IconTriangle style="color:#CCC73D;height:1.2em;width:1.4em"/><span>invalid</span>)}
     </div>
     <div class="under-title-content" style="font-size:1.2em">
       <IconHashtag />{Astro.props.entry.data.misc.tag}
