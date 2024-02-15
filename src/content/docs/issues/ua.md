@@ -1,5 +1,5 @@
 ---
-title: User Agent Changer Issue (invalid Spoofing)
+title: User Agent Changer (invalid Spoofing Issue)
 description: Issue Tracker of Floorp User Agent Changer
 misc:
   tag: Cloudflare
